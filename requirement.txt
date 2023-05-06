@@ -1,3 +1,5 @@
 chat application:
 emoji
 colors
+dsrk mode
+video call
